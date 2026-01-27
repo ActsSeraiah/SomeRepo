@@ -1,0 +1,12 @@
+[package]
+name = "security_utils"
+version = "0.1.0"
+edition = "2021"
+description = "Small security-themed utility library for tutorials"
+license = "MIT"
+
+[dependencies]
+argon2 = "0.4"
+rand = "0.8"
+rand_core = "0.6"
+subtle = "2.4"

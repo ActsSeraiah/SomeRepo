@@ -1,0 +1,17 @@
+# Rust build artifacts
+/target/
+
+# Ignore Cargo.lock for libraries; uncomment for applications
+# Cargo.lock
+
+# Editor/temp files
+.DS_Store
+*.swp
+*~
+
+# IDEs
+.idea/
+.vscode/
+
+# Logs
+*.log
